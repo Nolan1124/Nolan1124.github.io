@@ -13,7 +13,7 @@ theme: jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
 
-source: content
+source: [myblog]
 
 plugins:
   - jemoji
