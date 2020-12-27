@@ -2,9 +2,9 @@
 sort: 1
 ---
 
-# Document
+# Content
 
 ```
 ```
 
-{% include list.liquid %}
+{% include list.liquid all=true%}
