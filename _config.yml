@@ -1,15 +1,19 @@
 title: nolan-tech-pages
 description: Nolan's Tech Blog with GitHub Pages
 
-theme: null
+theme: jekyll-rtd-theme
 
 # debug:
 #   compress: true
 #   dist: false
 #   shortcodes: true
 
+
+
 readme_index:
   with_frontmatter: true
+
+source: content
 
 plugins:
   - jemoji
