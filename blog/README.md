@@ -2,9 +2,9 @@
 sort: 1
 ---
 
-# Test Documentation
+# Document
 
 ```
 ```
 
-{% include list.liquid all=true %}
+{% include list.liquid %}
