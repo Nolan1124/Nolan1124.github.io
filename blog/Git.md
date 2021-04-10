@@ -23,3 +23,6 @@ git config --global user.name "myname"
 git config --global user.email "test@gmail.com"
 
 4. git remote add origin <远程仓库名>：关联远程仓库
+
+
+
